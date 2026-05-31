@@ -4,7 +4,6 @@
 <!-- =================================================================== -->
 
 <!-- ====== BANNER ====================================================== -->
-<!-- TODO: Replace `assets/banner.png` with your own custom banner       -->
 <p align="center">
   <img src="./assets/banner.png" alt="Berkant Aksoy" width="100%" />
 </p>
@@ -12,7 +11,7 @@
 <h1 align="center">Berkant Aksoy</h1>
 <h3 align="center">Full Stack &amp; AI Developer · Biomedical Engineer</h3>
 
-<!-- ====== ANIMATED TYPING ============================================= -->
+<!-- ====== TYPING #1 — Roles (BLUE) ==================================== -->
 <p align="center">
   <a href="https://github.com/berkantaksyy">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00B7FF&center=true&vCenter=true&width=720&height=45&lines=Full+Stack+%26+AI+Developer;AI+%26+Deep+Learning+Researcher;Embedded+Systems+Enthusiast;Building+at+the+intersection+of+biology+and+code" alt="Typing animation" />
@@ -31,9 +30,9 @@
   <b>English (default)</b> &nbsp;·&nbsp; <a href="#türkçe">Türkçe</a>
 </p>
 
-<!-- ====== MATRIX RAIN — DRAMATIC HERO ANIMATION ======================= -->
+<!-- ====== MATRIX RAIN (FIXED — via raw URL, XML escaped chars) ======== -->
 <p align="center">
-  <img src="./assets/matrix-rain.svg" alt="matrix rain" width="100%" />
+  <img src="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/main/assets/matrix-rain.svg" alt="matrix rain" width="100%" />
 </p>
 
 <!-- =================================================================== -->
@@ -77,6 +76,21 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </table>
 
 <br/>
+
+<!-- ====== TYPING #2 — Currently Building (PURPLE) ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=600&color=7F52FF&center=true&vCenter=true&width=720&height=40&lines=%E2%9A%99%EF%B8%8F+Currently+building...;Genomic-AI+for+TEKNOFEST+2026;FossaNET+%E2%80%94+thesis+project;MEDAIGENCY+%E2%80%94+disaster+response+AI" alt="Currently building" />
+</p>
+
+<!-- ====== PROGRAMMING QUOTE =========================================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<!-- ====== CAPSULE CYLINDER SEPARATOR (animated gradient pulse) ======== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00B7FF,100:7F52FF&height=80&section=header&text=&fontSize=0" width="100%" alt="separator" />
+</p>
 
 <!-- =================================================================== -->
 <!--                            TECH STACK                               -->
@@ -149,30 +163,35 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 
 <br/>
 
+<!-- ====== CAPSULE VENOM SEPARATOR (dripping/flowing animation) ======== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F52FF,100:00B7FF&height=100&section=header" width="100%" alt="separator" />
+</p>
+
 <!-- =================================================================== -->
 <!--                              ACTIVITY                               -->
 <!-- =================================================================== -->
 
 <h2 align="center">Activity</h2>
 
-<!-- 3D Contribution Graph — literally a 3D city built from your commits -->
+<!-- 3D Contribution Graph -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </p>
 
-<!-- Activity Graph (animated curves with peak) -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkantaksyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 </p>
 
-<!-- Productive Time (when you commit, by hour) -->
+<!-- Productive Time -->
 <p align="center">
   <a href="https://github.com/berkantaksyy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkantaksyy&theme=tokyonight&utcOffset=3" />
   </a>
 </p>
 
-<!-- Snake Animation (requires GitHub Action — see setup below) -->
+<!-- Snake Animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/output/github-contribution-grid-snake-dark.svg" />
@@ -182,6 +201,25 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </p>
 
 <br/>
+
+<!-- =================================================================== -->
+<!--                        🎵  CURRENTLY LISTENING                      -->
+<!-- =================================================================== -->
+
+<h2 align="center">🎵 Currently Listening to</h2>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11155960274&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ====== TYPING #3 — Open to Collaborate (CYAN) ====================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=600&color=00FFE5&center=true&vCenter=true&width=720&height=40&lines=Open+to+collaboration;Fueled+by+coffee+%E2%98%95;Always+learning;Let%27s+build+something+together" alt="Open to collaboration" />
+</p>
 
 <!-- =================================================================== -->
 <!--                              CONTACT                                -->
