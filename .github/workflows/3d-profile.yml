@@ -1,7 +1,7 @@
 name: GitHub 3D Profile
 
-# Generates a 3D contribution graph (literally looks like a 3D city)
-# Runs daily and on every push to main
+# Generates a 3D contribution graph (looks like a 3D city built from your commits)
+# Updated to v0.9.1 which uses Node.js 24 — no more deprecation warnings
 
 on:
   schedule:
@@ -20,14 +20,13 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.9.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: assets/3d-profile-settings.json
 
       - name: Commit and push
         run: |
