@@ -9,11 +9,6 @@
   <img src="./assets/banner.png" alt="Berkant Aksoy" width="100%" />
 </p>
 
-<!-- ====== ANIMATED HEADER WAVE ======================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=120&section=header&animation=twinkling" width="100%" alt="header wave" />
-</p>
-
 <h1 align="center">Berkant Aksoy</h1>
 <h3 align="center">Full Stack &amp; AI Developer · Biomedical Engineer</h3>
 
@@ -36,7 +31,10 @@
   <b>English (default)</b> &nbsp;·&nbsp; <a href="#türkçe">Türkçe</a>
 </p>
 
-<br/>
+<!-- ====== FALLING ORBS ANIMATION ====================================== -->
+<p align="center">
+  <img src="./assets/falling-balls.svg" alt="" width="100%" />
+</p>
 
 <!-- =================================================================== -->
 <!--                              ABOUT                                  -->
@@ -49,7 +47,6 @@ Biomedical Engineering graduate from <b>İzmir Katip Çelebi University</b>,<br/
 now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </p>
 
-<!-- ====== EXPERIENCE TABLE ============================================ -->
 <h3 align="center">Experience</h3>
 
 <table align="center">
@@ -79,11 +76,9 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </tr>
 </table>
 
-<br/>
-
-<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00B7FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+  <img src="./assets/falling-balls.svg" alt="" width="100%" />
 </p>
 
 <!-- =================================================================== -->
@@ -96,11 +91,9 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,matlab,latex,js,tensorflow,pytorch,sklearn,opencv,flask,react,nodejs,raspberrypi,arduino,linux,docker,git,vscode&perline=10" alt="Tech stack" />
 </p>
 
-<br/>
-
-<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+  <img src="./assets/falling-balls.svg" alt="" width="100%" />
 </p>
 
 <!-- =================================================================== -->
@@ -160,57 +153,27 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </tr>
 </table>
 
-<br/>
-
-<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00B7FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+  <img src="./assets/falling-balls.svg" alt="" width="100%" />
 </p>
 
 <!-- =================================================================== -->
-<!--                              STATS                                  -->
+<!--                              ACTIVITY                               -->
 <!-- =================================================================== -->
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Activity</h2>
 
-<!-- Profile Summary Cards (trading-card style, more reliable than top-langs) -->
-<p align="center">
-  <a href="https://github.com/berkantaksyy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkantaksyy&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/berkantaksyy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkantaksyy&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/berkantaksyy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkantaksyy&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/berkantaksyy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkantaksyy&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/berkantaksyy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkantaksyy&theme=tokyonight&utcOffset=3" />
-  </a>
-</p>
-
-<!-- Activity Graph (animated curves) -->
+<!-- Activity Graph (animated curves with peak) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkantaksyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- Productive Time (when you commit, by hour) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=berkantaksyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Trophies (achievement-style) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkantaksyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkantaksyy&theme=tokyonight&utcOffset=3" />
+  </a>
 </p>
 
 <!-- Snake Animation (requires GitHub Action — see setup below) -->
@@ -222,11 +185,9 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </picture>
 </p>
 
-<br/>
-
-<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+  <img src="./assets/falling-balls.svg" alt="" width="100%" />
 </p>
 
 <!-- =================================================================== -->
