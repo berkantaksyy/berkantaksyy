@@ -4,6 +4,7 @@
 <!-- =================================================================== -->
 
 <!-- ====== BANNER ====================================================== -->
+<!-- TODO: Replace `assets/banner.png` with your own custom banner       -->
 <p align="center">
   <img src="./assets/banner.png" alt="Berkant Aksoy" width="100%" />
 </p>
@@ -30,9 +31,9 @@
   <b>English (default)</b> &nbsp;·&nbsp; <a href="#türkçe">Türkçe</a>
 </p>
 
-<!-- ====== MATRIX RAIN — via RAW URL so animations are preserved ======= -->
+<!-- ====== MATRIX RAIN — DRAMATIC HERO ANIMATION ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/main/assets/matrix-rain.svg" alt="matrix rain" width="100%" />
+  <img src="./assets/matrix-rain.svg" alt="matrix rain" width="100%" />
 </p>
 
 <!-- =================================================================== -->
@@ -76,11 +77,6 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </table>
 
 <br/>
-
-<!-- ====== NEW: PROGRAMMING QUOTE (animated, refreshes per load) ======= -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
 
 <!-- =================================================================== -->
 <!--                            TECH STACK                               -->
@@ -169,14 +165,14 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkantaksyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 </p>
 
-<!-- Productive Time card -->
+<!-- Productive Time (when you commit, by hour) -->
 <p align="center">
   <a href="https://github.com/berkantaksyy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkantaksyy&theme=tokyonight&utcOffset=3" />
   </a>
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake Animation (requires GitHub Action — see setup below) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/output/github-contribution-grid-snake-dark.svg" />
