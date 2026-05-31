@@ -31,9 +31,9 @@
   <b>English (default)</b> &nbsp;·&nbsp; <a href="#türkçe">Türkçe</a>
 </p>
 
-<!-- ====== FALLING ORBS ANIMATION ====================================== -->
+<!-- ====== MATRIX RAIN — DRAMATIC HERO ANIMATION ======================= -->
 <p align="center">
-  <img src="./assets/falling-balls.svg" alt="" width="100%" />
+  <img src="./assets/matrix-rain.svg" alt="matrix rain" width="100%" />
 </p>
 
 <!-- =================================================================== -->
@@ -76,10 +76,7 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </tr>
 </table>
 
-<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
-<p align="center">
-  <img src="./assets/falling-balls.svg" alt="" width="100%" />
-</p>
+<br/>
 
 <!-- =================================================================== -->
 <!--                            TECH STACK                               -->
@@ -91,10 +88,7 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,matlab,latex,js,tensorflow,pytorch,sklearn,opencv,flask,react,nodejs,raspberrypi,arduino,linux,docker,git,vscode&perline=10" alt="Tech stack" />
 </p>
 
-<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
-<p align="center">
-  <img src="./assets/falling-balls.svg" alt="" width="100%" />
-</p>
+<br/>
 
 <!-- =================================================================== -->
 <!--                          FEATURED PROJECTS                          -->
@@ -153,16 +147,18 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </tr>
 </table>
 
-<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
-<p align="center">
-  <img src="./assets/falling-balls.svg" alt="" width="100%" />
-</p>
+<br/>
 
 <!-- =================================================================== -->
 <!--                              ACTIVITY                               -->
 <!-- =================================================================== -->
 
 <h2 align="center">Activity</h2>
+
+<!-- 3D Contribution Graph — literally a 3D city built from your commits -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
 
 <!-- Activity Graph (animated curves with peak) -->
 <p align="center">
@@ -185,10 +181,7 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   </picture>
 </p>
 
-<!-- ====== FALLING ORBS SEPARATOR ====================================== -->
-<p align="center">
-  <img src="./assets/falling-balls.svg" alt="" width="100%" />
-</p>
+<br/>
 
 <!-- =================================================================== -->
 <!--                              CONTACT                                -->
