@@ -1,12 +1,17 @@
 <!-- =================================================================== -->
 <!--  BERKANT AKSOY  ·  GitHub Profile README                            -->
-<!--  Repo:  berkantaksyy/berkantaksyy                                   -->
+<!--  Repo:  berkantaksyy/berkantaksyy   (must be PUBLIC)                -->
 <!-- =================================================================== -->
 
 <!-- ====== BANNER ====================================================== -->
 <!-- TODO: Replace `assets/banner.png` with your own custom banner       -->
 <p align="center">
   <img src="./assets/banner.png" alt="Berkant Aksoy" width="100%" />
+</p>
+
+<!-- ====== ANIMATED HEADER WAVE ======================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=120&section=header&animation=twinkling" width="100%" alt="header wave" />
 </p>
 
 <h1 align="center">Berkant Aksoy</h1>
@@ -44,12 +49,42 @@ Biomedical Engineering graduate from <b>İzmir Katip Çelebi University</b>,<br/
 now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </p>
 
-<p align="center">
-Undergraduate researcher at the <b>Biomedical AI &amp; Neuroscience Lab (İKÇÜ)</b> — advisor: Dr. Mehmet Akif Özdemir.<br/>
-Building <b>MEDAIGENCY / KillianAI</b> (Interreg EU) · Developing <b>Genomic-AI</b> for TEKNOFEST 2026 · Thesis on <b>FossaNET</b>.
-</p>
+<!-- ====== EXPERIENCE TABLE ============================================ -->
+<h3 align="center">Experience</h3>
+
+<table align="center">
+  <tr>
+    <td align="right" width="220"><b>Undergraduate Researcher</b><br/><sub>Feb 2025 — Present</sub></td>
+    <td><b>Biomedical AI &amp; Neuroscience Lab — İKÇÜ</b><br/><sub>Advisor: Dr. Mehmet Akif Özdemir</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI Engineer</b><br/><sub>2025 — Present</sub></td>
+    <td><b>MEDAIGENCY / KillianAI</b> &nbsp;<code>Interreg EU</code><br/><sub>LLM-based autonomous agents for disaster response</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>ML Engineer</b><br/><sub>2025 — Present</sub></td>
+    <td><b>Genomic-AI</b> &nbsp;<code>TEKNOFEST 2026</code><br/><sub>Hybrid Transformer–XGBoost stacking · F1 0.898 · AUC 0.951</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Thesis Researcher</b><br/><sub>2025 — 2026</sub></td>
+    <td><b>FossaNET</b> &nbsp;<code>Bachelor's Thesis</code><br/><sub>Real-time NIR forearm vein segmentation · Dice 0.737</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Biomedical Engineer Intern</b><br/><sub>Aug 2025 — Sep 2025</sub></td>
+    <td><b>Üzümcü Medical Devices</b><br/><sub>PCB analysis · Fault diagnosis · Maintenance</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Biomedical Engineer Intern</b><br/><sub>Jul 2024 — Oct 2024</sub></td>
+    <td><b>Uşak Training &amp; Research Hospital</b><br/><sub>Clinical device operations · Calibration · Repair</sub></td>
+  </tr>
+</table>
 
 <br/>
+
+<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00B7FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+</p>
 
 <!-- =================================================================== -->
 <!--                            TECH STACK                               -->
@@ -62,6 +97,11 @@ Building <b>MEDAIGENCY / KillianAI</b> (Interreg EU) · Developing <b>Genomic-AI
 </p>
 
 <br/>
+
+<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+</p>
 
 <!-- =================================================================== -->
 <!--                          FEATURED PROJECTS                          -->
@@ -122,26 +162,58 @@ Building <b>MEDAIGENCY / KillianAI</b> (Interreg EU) · Developing <b>Genomic-AI
 
 <br/>
 
+<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00B7FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+</p>
+
 <!-- =================================================================== -->
-<!--                              ACTIVITY                               -->
+<!--                              STATS                                  -->
 <!-- =================================================================== -->
 
-<h2 align="center">Activity</h2>
+<h2 align="center">Stats</h2>
 
+<!-- Profile Summary Cards (trading-card style, more reliable than top-langs) -->
+<p align="center">
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkantaksyy&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkantaksyy&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkantaksyy&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkantaksyy&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/berkantaksyy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkantaksyy&theme=tokyonight&utcOffset=3" />
+  </a>
+</p>
+
+<!-- Activity Graph (animated curves) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkantaksyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=berkantaksyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantaksyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=berkantaksyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Snake animation — requires GitHub Action workflow (see notes below) -->
+<!-- Trophies (achievement-style) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=berkantaksyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+<!-- Snake Animation (requires GitHub Action — see setup below) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/output/github-contribution-grid-snake-dark.svg" />
@@ -151,6 +223,11 @@ Building <b>MEDAIGENCY / KillianAI</b> (Interreg EU) · Developing <b>Genomic-AI
 </p>
 
 <br/>
+
+<!-- ====== ANIMATED WAVE SEPARATOR ===================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B7FF,100:7F52FF&height=60&section=footer&animation=twinkling" width="100%" alt="separator" />
+</p>
 
 <!-- =================================================================== -->
 <!--                              CONTACT                                -->
@@ -189,10 +266,34 @@ Building <b>MEDAIGENCY / KillianAI</b> (Interreg EU) · Developing <b>Genomic-AI
 kariyerime <b>Full Stack &amp; AI Geliştirici</b> olarak devam ediyorum.
 </p>
 
-<p align="center">
-<b>İKÇÜ Biyomedikal Yapay Zekâ ve Nörobilim Laboratuvarı</b>'nda lisans araştırma öğrencisiyim — Danışman: Dr. Mehmet Akif Özdemir.<br/>
-<b>MEDAIGENCY / KillianAI</b> (Interreg AB) · <b>Genomic-AI</b> (TEKNOFEST 2026) · <b>FossaNET</b> bitirme tezi.
-</p>
+<h3 align="center">Deneyim</h3>
+
+<table align="center">
+  <tr>
+    <td align="right" width="220"><b>Lisans Araştırma Öğrencisi</b><br/><sub>Şub 2025 — Halen</sub></td>
+    <td><b>Biyomedikal Yapay Zekâ ve Nörobilim Lab. — İKÇÜ</b><br/><sub>Danışman: Dr. Mehmet Akif Özdemir</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI Mühendisi</b><br/><sub>2025 — Halen</sub></td>
+    <td><b>MEDAIGENCY / KillianAI</b> &nbsp;<code>Interreg AB</code><br/><sub>Afet müdahalesi için LLM tabanlı otonom ajanlar</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>ML Mühendisi</b><br/><sub>2025 — Halen</sub></td>
+    <td><b>Genomic-AI</b> &nbsp;<code>TEKNOFEST 2026</code><br/><sub>Hibrit Transformer–XGBoost stacking · F1 0.898 · AUC 0.951</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tez Araştırmacısı</b><br/><sub>2025 — 2026</sub></td>
+    <td><b>FossaNET</b> &nbsp;<code>Bitirme Tezi</code><br/><sub>Gerçek zamanlı NIR damar segmentasyonu · Dice 0.737</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Biyomedikal Müh. Stajyeri</b><br/><sub>Ağu 2025 — Eyl 2025</sub></td>
+    <td><b>Üzümcü Tıbbi Cihaz</b><br/><sub>PCB analizi · Arıza tespit · Bakım</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Biyomedikal Müh. Stajyeri</b><br/><sub>Tem 2024 — Eki 2024</sub></td>
+    <td><b>Uşak Eğitim ve Araştırma Hastanesi</b><br/><sub>Klinik cihaz işletimi · Kalibrasyon · Onarım</sub></td>
+  </tr>
+</table>
 
 <h2 align="center">Öne Çıkan Projeler</h2>
 
