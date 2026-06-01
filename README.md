@@ -30,7 +30,7 @@
   <b>English (default)</b> &nbsp;·&nbsp; <a href="#türkçe">Türkçe</a>
 </p>
 
-<!-- ====== MATRIX RAIN (FIXED — via raw URL, XML escaped chars) ======== -->
+<!-- ====== MATRIX RAIN ================================================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/berkantaksyy/berkantaksyy/main/assets/matrix-rain.svg" alt="matrix rain" width="100%" />
 </p>
@@ -82,15 +82,7 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=600&color=7F52FF&center=true&vCenter=true&width=720&height=40&lines=%E2%9A%99%EF%B8%8F+Currently+building...;Genomic-AI+for+TEKNOFEST+2026;FossaNET+%E2%80%94+thesis+project;MEDAIGENCY+%E2%80%94+disaster+response+AI" alt="Currently building" />
 </p>
 
-<!-- ====== PROGRAMMING QUOTE =========================================== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<!-- ====== CAPSULE CYLINDER SEPARATOR (animated gradient pulse) ======== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00B7FF,100:7F52FF&height=80&section=header&text=&fontSize=0" width="100%" alt="separator" />
-</p>
+<br/>
 
 <!-- =================================================================== -->
 <!--                            TECH STACK                               -->
@@ -162,11 +154,6 @@ now pursuing my career as a <b>Full Stack &amp; AI Developer</b>.
 </table>
 
 <br/>
-
-<!-- ====== CAPSULE VENOM SEPARATOR (dripping/flowing animation) ======== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F52FF,100:00B7FF&height=100&section=header" width="100%" alt="separator" />
-</p>
 
 <!-- =================================================================== -->
 <!--                              ACTIVITY                               -->
